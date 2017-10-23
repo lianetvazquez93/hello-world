@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-Arendiendo el ABC de GitHub
+Aprendiendo el ABC de GitHub
